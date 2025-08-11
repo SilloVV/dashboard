@@ -3,3 +3,5 @@ pandas
 firebase-admin
 plotly
 firebase
+redis
+python-dotenv
